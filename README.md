@@ -60,7 +60,7 @@
 
 - کد تخفیف 12% نت افراز ویژه خرید هاست: UC586XTE
 
-<img src="https://github.com/rootfa/best_hosting/blob/main/netafraz-gift.png" alt="کد تخفیف نت افراز">
+<img src="https://github.com/rootfa/best_hosting/blob/main/netafraz-gift.jpg" alt="کد تخفیف نت افراز">
 
 <hr>
 
