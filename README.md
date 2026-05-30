@@ -65,7 +65,10 @@
 
 اگر به دنبال بهترین هاست ایرانی هستید، پیشنهاد اول ما شرکت نت افراز ایرانیان است 👍
 
-- کد تخفیف 12% نت افراز ویژه خرید هاست: UC586XTE
+- کد تخفیف 12% نت افراز ویژه خرید هاست:
+```bash
+UC586XTE
+```
 
 <center>
 <img src="https://raw.githubusercontent.com/pouyaei/best_hosting/refs/heads/main/img/netafraz-gift.jpg" width="350" alt="کد تخفیف نت افراز">
