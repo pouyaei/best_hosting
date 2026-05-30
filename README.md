@@ -3,7 +3,7 @@
 بدون شک کیفیت سرویس‌ و خدمات هاستینگ‌های خارجی نسبت به هاستینگ‌های داخلی، بسیار بالاتر است. ولی موضوع اصلی اینجاست که اکثر این شرکت‌ها ایران را تحریم کرده‌اند و به کاربران ایرانی سرویس نمی‌دهند و اگر هم به ما سرویس بدهند، پرداخت صورتحساب چالش‌هایی برایمان همراه دارد. پس در چنین شرایطی باید به دنبال بهترین هاست ایرانی باشیم 🙂
 
 <center>
-<img src="https://raw.githubusercontent.com/pouyaei/best_hosting/refs/heads/main/img/best-hosting.png" width="650" alt="بهترین هاست و بهترین شرکت هاستینگ ایرانی">
+<img src="https://raw.githubusercontent.com/pouyaei/best_hosting/refs/heads/main/img/best-hosting.png" alt="بهترین هاست و بهترین شرکت هاستینگ ایرانی">
 </center>
 
 ## بهترین هاست ایرانی
@@ -23,14 +23,14 @@
 - استفاده از تجهیزات سخت افزاری مدرن و بروز
 
 <center>
-<img src="https://raw.githubusercontent.com/pouyaei/best_hosting/refs/heads/main/img/best-iranian-hosting.jpg" width="650" alt="بهترین هاست ایرانی">
+<img src="https://raw.githubusercontent.com/pouyaei/best_hosting/refs/heads/main/img/best-iranian-hosting.jpg" alt="بهترین هاست ایرانی">
 </center>
 
 ## بهترین شرکت های هاستینگ ایرانی
 طبق تست‌های انجام شده توسط تیم فنی ما، بررسی نظرات کاربران و با در نظر گرفتن معیارهایی که در بالا معرفی کردیم، در حال حاضر فقط 3 شرکت هاستینگ ایرانی مورد تایید ما است که در ادامه آن‌ها را معرفی می‌کنیم. البته شما هم صرفا به پیشنهادات ما اکتفا نکنید و خودتان بررسی‌های لازم را انجام بدهید و با اطمینان خاطر نسبت به خرید هاست برای سایت‌تان اقدام کنید!
 
 <center>
-<img src="https://raw.githubusercontent.com/pouyaei/best_hosting/refs/heads/main/img/netafraz.png" width="650" alt="نت افراز">
+<img src="https://raw.githubusercontent.com/pouyaei/best_hosting/refs/heads/main/img/netafraz.png" alt="نت افراز">
 </center>
 
 ### 1.نت افراز
@@ -71,13 +71,13 @@ UC586XTE
 ```
 
 <center>
-<img src="https://raw.githubusercontent.com/pouyaei/best_hosting/refs/heads/main/img/netafraz-gift.jpg" width="350" alt="کد تخفیف نت افراز">
+<img src="https://raw.githubusercontent.com/pouyaei/best_hosting/refs/heads/main/img/netafraz-gift.jpg" alt="کد تخفیف نت افراز">
 </center>
 
 <hr>
 
 <center>
-<img src="https://raw.githubusercontent.com/pouyaei/best_hosting/refs/heads/main/img/hostdl.png" width="650" alt="هاست دی ال">
+<img src="https://raw.githubusercontent.com/pouyaei/best_hosting/refs/heads/main/img/hostdl.png" alt="هاست دی ال">
 </center>
 
 ### 2.هاست دی ال
@@ -88,7 +88,7 @@ UC586XTE
 <hr>
 
 <center>
-<img src="https://raw.githubusercontent.com/pouyaei/best_hosting/refs/heads/main/img/limoohost.png" width="650" alt="لیمو هاست">
+<img src="https://raw.githubusercontent.com/pouyaei/best_hosting/refs/heads/main/img/limoohost.png" alt="لیمو هاست">
 </center>
 
 ### 3.لیمو هاست
